@@ -196,7 +196,7 @@ The system reduces manual work, improves complaint tracking, and supports better
 |---|---|
 | 2520030560 | Muthana Nikhil Reddy |
 | 2520030599 | Dumpala Hemasai |
-| Third Member | Add third member's details |
+| 2520030195 | Ada Rohan |
 
 ---
 
